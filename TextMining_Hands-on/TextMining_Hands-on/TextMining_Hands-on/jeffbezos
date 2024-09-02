@@ -1,0 +1,1898 @@
+{
+    "tweets": [
+        {
+            "link": "https://twitter.com/SenBillNelson/status/1717904201617908137#m",
+            "text": "Impressive visit to the @blueorigin Huntsville Engine Production Facility! @NASA is proud to partner with Blue Origin, especially on the Blue Moon human landing system, which will help ensure a steady cadence of astronauts on the Moon to live and work before we venture to Mars.",
+            "user": {
+                "name": "Bill Nelson",
+                "username": "@SenBillNelson",
+                "profile_id": "1394719231606988801",
+                "avatar": "https://pbs.twimg.com/profile_images/1394719231606988801/9XhY5ive_bigger.jpg"
+            },
+            "date": "Oct 27, 2023 \u00b7 2:00 PM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 2225,
+                "retweets": 813,
+                "quotes": 114,
+                "likes": 3936
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/F9c4cx9XUAEhPON.jpg",
+                "https://pbs.twimg.com/media/F9c4S7UWgAAFbYy.jpg",
+                "https://pbs.twimg.com/media/F9c4U7KXkAA0Xi8.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/torybruno/status/1666612451440222209#m",
+            "text": "Nominal run!",
+            "user": {
+                "name": "Tory Bruno",
+                "username": "@torybruno",
+                "profile_id": "760437859069390848",
+                "avatar": "https://pbs.twimg.com/profile_images/760437859069390848/lorDxKoh_bigger.jpg"
+            },
+            "date": "Jun 8, 2023 \u00b7 1:05 AM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1125,
+                "retweets": 412,
+                "quotes": 78,
+                "likes": 3941
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1659576309432090625#m",
+            "text": "Honored to be on this journey with @NASA to land astronauts on the Moon \u2014 this time to stay. Together, we\u2019ll be solving the boil-off problem and making LOX-LH2 a storable propellant combination, pushing forward the state of the art for all deep space missions. #Artemis #MoonToMars https://www.blueorigin.com/news/nasa-selects-blue-origin-for-mission-to-moon",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 19, 2023 \u00b7 3:06 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 4983,
+                "retweets": 2078,
+                "quotes": 341,
+                "likes": 13381
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/Fwf_2zraIAEOngj.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1625224820786094080#m",
+            "text": "Big milestone. Kudos and congrats to the whole Zoox team!",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Feb 13, 2023 \u00b7 8:06 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/zoox/status/1625193591076429824#m",
+                "text": "Last week, the @CA_DMV granted our permit to operate our robotaxi autonomously on public roads. This weekend, we hit the road! It marked the first time in history that a purpose-built robotaxi\u2014with no manual controls\u2014drove autonomously on open public roads with passengers. It was a huge milestone for Zoox and the AV industry.   Head to our Journal for all the details, including what's next on our journey: zoox.com/journal/publicroads. \ud83c\udf89 #ThisIsZoox",
+                "user": {
+                    "name": "Zoox",
+                    "username": "@zoox",
+                    "profile_id": "1440739774491344901",
+                    "avatar": "https://pbs.twimg.com/profile_images/1440739774491344901/WYP3m0A2_mini.jpg"
+                },
+                "date": "Feb 13, 2023 \u00b7 6:02 PM UTC",
+                "pictures": [],
+                "videos": [
+                    "https://video.twimg.com/ext_tw_video/1625186201073491968/pu/vid/1920x1080/TKaC6WnrePmeZ50s.mp4?tag=14"
+                ],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 4506,
+                "retweets": 842,
+                "quotes": 133,
+                "likes": 5328
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1620466730572349442#m",
+            "text": "Episode 3 of Last of Us is unbelievably good story telling. I am in awe of @Nick_Offerman performance. Incredible.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Jan 31, 2023 \u00b7 4:59 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 2726,
+                "retweets": 1392,
+                "quotes": 557,
+                "likes": 29842
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1619418820984340481#m",
+            "text": "Thank you Bill and Tim. So nice. Gratitude.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Jan 28, 2023 \u00b7 7:35 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/tferriss/status/1619075327732633600#m",
+                "text": "Bill Gurley (@bgurley) on The Superpowers of @JeffBezos \ud83d\udc47  https://www.youtube.com/watch?v=TVfjS_l16mQ",
+                "user": {
+                    "name": "Tim Ferriss",
+                    "username": "@tferriss",
+                    "profile_id": "1590221913128837121",
+                    "avatar": "https://pbs.twimg.com/profile_images/1590221913128837121/SfucaJh8_mini.jpg"
+                },
+                "date": "Jan 27, 2023 \u00b7 8:50 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 1253,
+                "retweets": 245,
+                "quotes": 45,
+                "likes": 2968
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/kevin2kelly/status/1612952776933543936#m",
+            "text": "We crave experts for the new thing but almost all experts are expert in the old thing.",
+            "user": {
+                "name": "Kevin Kelly",
+                "username": "@kevin2kelly",
+                "profile_id": "65000713",
+                "avatar": "https://pbs.twimg.com/profile_images/65000713/KKlaughsm_bigger.jpg"
+            },
+            "date": "Jan 10, 2023 \u00b7 11:21 PM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 544,
+                "retweets": 410,
+                "quotes": 53,
+                "likes": 2229
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1595038534897139712#m",
+            "text": "This year\u2019s Bezos Day 1 Families Fund grants go to 40 incredible groups working to end homelessness in the U.S. In 5 years, we\u2019ve given more than $500 million to 167 orgs \u2013 helping expand their support of families in need. Honored to\u00a0support\u00a0these groups.\u00a0bezosdayonefund.org/day1fami\u2026",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Nov 22, 2022 \u00b7 12:56 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 4067,
+                "retweets": 924,
+                "quotes": 220,
+                "likes": 6993
+            },
+            "pictures": [],
+            "videos": [
+                "https://video.twimg.com/ext_tw_video/1595038397672067072/pu/vid/1280x720/ab5tHGQzAhASMZPr.mp4?tag=12"
+            ],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/awscloud/status/1593055069699993602#m",
+            "text": ".@Werner is pulling back the curtain on #Amazon history with the Distributed Computing Manifesto.  Read the 25-year-old internal doc that changed the way systems were designed & built at Amazon.  Learn more. \ud83d\udc49 https://go.aws/3TGvc6o #AWS",
+            "user": {
+                "name": "Amazon Web Services",
+                "username": "@awscloud",
+                "profile_id": "1641476962362302464",
+                "avatar": "https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_bigger.jpg"
+            },
+            "date": "Nov 17, 2022 \u00b7 1:35 AM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1025,
+                "retweets": 657,
+                "quotes": 66,
+                "likes": 3167
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1591558804960854017#m",
+            "text": "We\u2019ve just announced a new Courage and Civility award recipient \u2014  @DollyParton, who leads with her heart, and will put this $100 million award to great use helping so many people. She joins prior awardees, @VanJones68 and @Chefjoseandres.  Congrats, Dolly!",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Nov 12, 2022 \u00b7 10:29 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 3613,
+                "retweets": 1313,
+                "quotes": 377,
+                "likes": 9069
+            },
+            "pictures": [],
+            "videos": [
+                "https://video.twimg.com/ext_tw_video/1591558765987467267/pu/vid/1080x608/d04NJ3kUrmlMrFiN.mp4?tag=12"
+            ],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1582517044020273152#m",
+            "text": "Yep, the probabilities in this economy tell you to batten down the hatches.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Oct 18, 2022 \u00b7 11:40 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/CNBC/status/1582498004199784449#m",
+                "text": "Goldman Sachs CEO David Solomon says there is a good chance of a recession. Watch the video to learn more. https://cnb.cx/3VA6t5N",
+                "user": {
+                    "name": "CNBC",
+                    "username": "@CNBC",
+                    "profile_id": "1734317789597540352",
+                    "avatar": "https://pbs.twimg.com/profile_images/1734317789597540352/2jMsl8hP_mini.jpg"
+                },
+                "date": "Oct 18, 2022 \u00b7 10:25 PM UTC",
+                "pictures": [],
+                "videos": [
+                    "https://video.twimg.com/amplify_video/1582457914383831040/vid/720x1280/L-AyZ6qEIhQZ7Xz1.mp4?tag=14"
+                ],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 2897,
+                "retweets": 1383,
+                "quotes": 503,
+                "likes": 8599
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1580286321242697729#m",
+            "text": "The Hutch is going to do incredible things with this.  https://www.bloomberg.com/news/articles/2022-10-12/bezos-family-to-donate-711-million-to-cancer-center-in-seattle",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Oct 12, 2022 \u00b7 7:56 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 2060,
+                "retweets": 643,
+                "quotes": 137,
+                "likes": 6072
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1579252993903710209#m",
+            "text": "Invention. You can still improve even an axe! Damn.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Oct 9, 2022 \u00b7 11:30 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/Rainmaker1973/status/1578762142559309826#m",
+                "text": "Finnish inventor Heikki K\u00e4rn\u00e4 is the man behind the Vipukirves Leveraxe and his aim was to redesign the axe using simple principles of physics to make it more efficient and safer [read more: https://buff.ly/3rPiHr8] [video: https://buff.ly/3cN6eQo]",
+                "user": {
+                    "name": "Massimo",
+                    "username": "@Rainmaker1973",
+                    "profile_id": "914888589670043654",
+                    "avatar": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_mini.jpg"
+                },
+                "date": "Oct 8, 2022 \u00b7 3:00 PM UTC",
+                "pictures": [],
+                "videos": [
+                    "https://video.twimg.com/ext_tw_video/1578735021480939523/pu/vid/640x360/PeHyF2G8WrZR0vrU.mp4?tag=12"
+                ],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 2258,
+                "retweets": 3735,
+                "quotes": 338,
+                "likes": 48172
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/BezosEarthFund/status/1578094931519864858#m",
+            "text": "The Bezos Earth Fund has granted $110M to protect the Congo Basin, a critical ecosystem the world cannot afford to lose.  Watch to learn why we\u2019re collaborating with partners across governments, businesses, and civil society to conserve 30% of the region by 2030.  #30by30",
+            "user": {
+                "name": "Bezos Earth Fund",
+                "username": "@BezosEarthFund",
+                "profile_id": "1440069529384587269",
+                "avatar": "https://pbs.twimg.com/profile_images/1440069529384587269/e3lldvdP_bigger.jpg"
+            },
+            "date": "Oct 6, 2022 \u00b7 6:48 PM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 881,
+                "retweets": 496,
+                "quotes": 132,
+                "likes": 2872
+            },
+            "pictures": [],
+            "videos": [
+                "https://video.twimg.com/amplify_video/1578084577276485633/vid/1280x720/wJNLe_w1ecC3p26k.mp4?tag=14"
+            ],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1577732519856082944#m",
+            "text": "Go @JSalke and @AmazonStudios!",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Oct 5, 2022 \u00b7 6:48 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/Variety/status/1577312590740434944#m",
+                "text": "Inside Variety\u2019s cover story with @JSalke:  Amazon Studios Head Jennifer Salke Breaks Down the $700 Million \u2018Rings of Power\u2019 Gamble and Plan for MGM Integration https://wp.me/pc8uak-1lBzVa",
+                "user": {
+                    "name": "Variety",
+                    "username": "@Variety",
+                    "profile_id": "1610752949550186496",
+                    "avatar": "https://pbs.twimg.com/profile_images/1610752949550186496/X5zYP9oV_mini.jpg"
+                },
+                "date": "Oct 4, 2022 \u00b7 3:00 PM UTC",
+                "pictures": [
+                    "https://pbs.twimg.com/media/FeO8MaoUYAAz-nm.jpg"
+                ],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 841,
+                "retweets": 193,
+                "quotes": 46,
+                "likes": 1548
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1572348625459576832#m",
+            "text": "https://frontofficesports.com/tnf-draws-record-prime-subscriptions-for-amazon/",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Sep 20, 2022 \u00b7 10:14 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1864,
+                "retweets": 295,
+                "quotes": 96,
+                "likes": 2454
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1568669073608966145#m",
+            "text": "https://www.amazon.science/blog/20b-parameter-alexa-model-sets-new-marks-in-few-shot-learning",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Sep 10, 2022 \u00b7 6:33 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1417,
+                "retweets": 384,
+                "quotes": 76,
+                "likes": 2698
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1568420373422837760#m",
+            "text": "If you want unusual results, you\u2019re going to need some missionary, brilliant \u201corganizational misfits\u201d on your team.  https://www.wsj.com/articles/rings-of-power-lotr-amazon-jd-payne-patrick-mckay-11662605833",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Sep 10, 2022 \u00b7 2:05 AM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1355,
+                "retweets": 467,
+                "quotes": 108,
+                "likes": 4165
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JamesMelville/status/1568168490342797312#m",
+            "text": "Here\u2019s a rather excitable baby elephant chasing birds. \u2665\ufe0f\ud83d\udc18  VC - Bor\u00e5s Zoo",
+            "user": {
+                "name": "James Melville \ud83d\ude9c",
+                "username": "@JamesMelville",
+                "profile_id": "1776604717138759680",
+                "avatar": "https://pbs.twimg.com/profile_images/1776604717138759680/lEVv3kMP_bigger.jpg"
+            },
+            "date": "Sep 9, 2022 \u00b7 9:24 AM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 606,
+                "retweets": 1282,
+                "quotes": 143,
+                "likes": 9006
+            },
+            "pictures": [],
+            "videos": [
+                "https://video.twimg.com/ext_tw_video/1568168411145838593/pu/vid/720x790/ztPWSofBZZfvytg3.mp4?tag=12"
+            ],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1567943098029981696#m",
+            "text": "I can think of no one who better personified duty. My deepest condolences to all the Brits mourning her passing today.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Sep 8, 2022 \u00b7 6:29 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/GordonBrown/status/1567934271351918592#m",
+                "text": "The United Kingdom, the Commonwealth, and the entire world are joined together in mourning this evening. HM Queen Elizabeth II served this country to the last. I offer my sincere condolences to the Royal Family. May she rest in peace.",
+                "user": {
+                    "name": "Gordon Brown",
+                    "username": "@GordonBrown",
+                    "profile_id": "1486306627854770179",
+                    "avatar": "https://pbs.twimg.com/profile_images/1486306627854770179/c3uw9Int_mini.jpg"
+                },
+                "date": "Sep 8, 2022 \u00b7 5:53 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 1660,
+                "retweets": 1183,
+                "quotes": 374,
+                "likes": 22191
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1567918581614247937#m",
+            "text": "This is someone supposedly working to make the world better? I don\u2019t think so. Wow.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Sep 8, 2022 \u00b7 4:51 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "",
+                "text": "",
+                "user": {},
+                "date": "",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 12084,
+                "retweets": 9696,
+                "quotes": 13654,
+                "likes": 70266
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1566194037991915520#m",
+            "text": "Go Middle-earth! https://www.bloomberg.com/news/articles/2022-09-03/amazon-s-lord-of-the-rings-series-draws-25-million-on-debut",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Sep 3, 2022 \u00b7 10:38 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1822,
+                "retweets": 771,
+                "quotes": 177,
+                "likes": 11518
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1566084636043780096#m",
+            "text": "Good point. Thank you. (And very excited about what you\u2019re working on.)",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Sep 3, 2022 \u00b7 3:24 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/ID_AA_Carmack/status/1566072322376753153#m",
+                "text": "With button presses it is necessary to make a trade off with volume granularity, but it shouldn\u2019t be with voice control.  Alexa, volume 1.5. Alexa, volume one and a half. Alexa, volume 15%. Sigh.",
+                "user": {
+                    "name": "John Carmack",
+                    "username": "@ID_AA_Carmack",
+                    "profile_id": "1560764938083352577",
+                    "avatar": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_mini.jpg"
+                },
+                "date": "Sep 3, 2022 \u00b7 2:35 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 604,
+                "retweets": 180,
+                "quotes": 38,
+                "likes": 2274
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/ConanOBrien/status/1565717064328912898#m",
+            "text": "Think of the viewing time we could save if they just made one series, \u201cHouse of Game of the Lord of Thrones of the Dragon Rings.\u201d",
+            "user": {
+                "name": "Conan O'Brien",
+                "username": "@ConanOBrien",
+                "profile_id": "1746262961612816385",
+                "avatar": "https://pbs.twimg.com/profile_images/1746262961612816385/A8HhwbF0_bigger.jpg"
+            },
+            "date": "Sep 2, 2022 \u00b7 3:03 PM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 590,
+                "retweets": 1230,
+                "quotes": 100,
+                "likes": 16304
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1564006036037521408#m",
+            "text": "My first job. And still the same great burger. Happy Sunday!",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Aug 28, 2022 \u00b7 9:44 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 10947,
+                "retweets": 8504,
+                "quotes": 4417,
+                "likes": 196768
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/FbR3MucVEAAJuAa.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1556689455905267712#m",
+            "text": "Leaders can only get so far ahead\u2026",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Aug 8, 2022 \u00b7 5:11 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/Rainmaker1973/status/1556356799116283904#m",
+                "text": "Derik M. was on the McMurdo Station in Antarctica as a US Coast Guard in 2017, when he spotted a family of penguins. Suddenly, a piece of the ice broke and the clip turned out to be one of the most thrilling ever filmed [source: https://buff.ly/3bEDKdY]  https://twitter.com/outdoor_bass/status/1479313289683570689/video/1",
+                "user": {
+                    "name": "Massimo",
+                    "username": "@Rainmaker1973",
+                    "profile_id": "914888589670043654",
+                    "avatar": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_mini.jpg"
+                },
+                "date": "Aug 7, 2022 \u00b7 7:09 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 1563,
+                "retweets": 1100,
+                "quotes": 126,
+                "likes": 9085
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1556029528501211136#m",
+            "text": "My friend and a friend to many, Tom Alberg, has passed away. He was an early investor in Amazon and served on our board for 23 years. Tom was a visionary and also just a wonderful, good man. I was so lucky to have you in my life, Tom. We will all miss you dearly.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Aug 6, 2022 \u00b7 9:28 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1277,
+                "retweets": 479,
+                "quotes": 89,
+                "likes": 10890
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/FZggm_-VQAAiV9f.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1550559511563276288#m",
+            "text": "New trailer released at Comic-Con today #TheRingsofPower",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Jul 22, 2022 \u00b7 7:12 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1393,
+                "retweets": 752,
+                "quotes": 175,
+                "likes": 6159
+            },
+            "pictures": [],
+            "videos": [
+                "https://video.twimg.com/amplify_video/1550555564727406592/vid/1280x720/q0gTveoe7L8xCSci.mp4?tag=14"
+            ],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1550487420767940608#m",
+            "text": "Let\u2019s go!",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Jul 22, 2022 \u00b7 2:26 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/RJScaringe/status/1550134625615241223#m",
+                "text": "Our custom Amazon EDVs are officially on the road and making deliveries! Thank you @ajassy @jeffbezos, the entire @amazon team & all the amazing drivers for coming together to make this possible\u2014this type of collaboration is key to building the kind of future our kids deserve.",
+                "user": {
+                    "name": "RJ Scaringe",
+                    "username": "@RJScaringe",
+                    "profile_id": "1549857036065726468",
+                    "avatar": "https://pbs.twimg.com/profile_images/1549857036065726468/gwloanV6_mini.jpg"
+                },
+                "date": "Jul 21, 2022 \u00b7 3:04 PM UTC",
+                "pictures": [
+                    "https://pbs.twimg.com/media/FYMvOQ6XwAAjF5w.jpg"
+                ],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 6228,
+                "retweets": 445,
+                "quotes": 64,
+                "likes": 4709
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1547607992316542976#m",
+            "text": "First full-length trailer #TheRingsOfPower",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Jul 14, 2022 \u00b7 3:44 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1397,
+                "retweets": 1328,
+                "quotes": 375,
+                "likes": 9777
+            },
+            "pictures": [],
+            "videos": [
+                "https://video.twimg.com/amplify_video/1546963562026807296/vid/1280x720/cMm-9GlOLIdKgA9T.mp4?tag=14"
+            ],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/bgurley/status/1543792607007887360#m",
+            "text": "I totally agree with this. Whatever your politics is, we cannot ignore the past three hundred years of economic research and understanding. People argue they are on the side of \u201cscience.\u201d Let\u2019s use the education we all have. Please.",
+            "user": {
+                "name": "Bill Gurley",
+                "username": "@bgurley",
+                "profile_id": "1338587084911767554",
+                "avatar": "https://pbs.twimg.com/profile_images/1338587084911767554/Le6JNY5F_bigger.jpg"
+            },
+            "date": "Jul 4, 2022 \u00b7 3:03 AM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/JeffBezos/status/1543409762867494912#m",
+                "text": "Ouch. Inflation is far too important a problem for the White House to keep making statements like this. It\u2019s either straight ahead misdirection or a deep misunderstanding of basic market dynamics.",
+                "user": {
+                    "name": "Jeff Bezos",
+                    "username": "@JeffBezos",
+                    "profile_id": "1591558315254890500",
+                    "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_mini.jpg"
+                },
+                "date": "Jul 3, 2022 \u00b7 1:42 AM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 0,
+                "retweets": 413,
+                "quotes": 66,
+                "likes": 3540
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1543409762867494912#m",
+            "text": "Ouch. Inflation is far too important a problem for the White House to keep making statements like this. It\u2019s either straight ahead misdirection or a deep misunderstanding of basic market dynamics.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Jul 3, 2022 \u00b7 1:42 AM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/POTUS/status/1543263229006254080#m",
+                "text": "My message to the companies running gas stations and setting prices at the pump is simple: this is a time of war and global peril.   Bring down the price you are charging at the pump to reflect the cost you\u2019re paying for the product. And do it now.",
+                "user": {
+                    "name": "President Biden",
+                    "username": "@POTUS",
+                    "profile_id": "1380530524779859970",
+                    "avatar": "https://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_mini.jpg"
+                },
+                "date": "Jul 2, 2022 \u00b7 4:00 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 23483,
+                "retweets": 29223,
+                "quotes": 6613,
+                "likes": 180769
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/IGN/status/1539266170913792000#m",
+            "text": "Looks like meat\u2019s back on the menu, boys!  We have the exclusive first-look photos of the Orcs from The Lord of the Rings: The Rings of Power. After getting a close look at those, you can check out our exclusive interview right here: https://bit.ly/39Eiy6O @LOTRonPrime",
+            "user": {
+                "name": "IGN",
+                "username": "@IGN",
+                "profile_id": "1765487683533705216",
+                "avatar": "https://pbs.twimg.com/profile_images/1765487683533705216/GKxAUc4V_bigger.jpg"
+            },
+            "date": "Jun 21, 2022 \u00b7 3:17 PM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 723,
+                "retweets": 1437,
+                "quotes": 712,
+                "likes": 9671
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/FVySZsuWIAERNEY.jpg",
+                "https://pbs.twimg.com/media/FVySaR3XEAQQ8up.jpg",
+                "https://pbs.twimg.com/media/FVySa1KX0AcDceV.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1538658321002995712#m",
+            "text": "I love you, Dad.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Jun 19, 2022 \u00b7 11:01 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 2967,
+                "retweets": 1622,
+                "quotes": 333,
+                "likes": 65625
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/FVpplkYVUAAiOlh.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1531745211084324864#m",
+            "text": "Incredible",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 31, 2022 \u00b7 9:11 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/waitbutwhy/status/1531659956193222659#m",
+                "text": "Brookesia micra is an unreasonably tiny species of chameleon in Madagascar and possibly the world\u2019s smallest reptile. Scientists say its laughable smallness may be due to evolving on small inlets with few resources.  [@NatGeo / Frank Glaw]",
+                "user": {
+                    "name": "Tim Urban",
+                    "username": "@waitbutwhy",
+                    "profile_id": "378800000096549990",
+                    "avatar": "https://pbs.twimg.com/profile_images/378800000096549990/2b5b8a614e16b1527ebb75e1a7266d85_mini.jpeg"
+                },
+                "date": "May 31, 2022 \u00b7 3:32 PM UTC",
+                "pictures": [
+                    "https://pbs.twimg.com/media/FUGMnJCXwAEmK1N.jpg",
+                    "https://pbs.twimg.com/media/FUGMnJAWQAIH4y5.jpg"
+                ],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 7095,
+                "retweets": 819,
+                "quotes": 125,
+                "likes": 9347
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1529840331029499904#m",
+            "text": "What a truly beautiful observation\u2026",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 26, 2022 \u00b7 3:02 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/collision/status/1529452415346302976#m",
+                "text": "As you become an adult, you realize that things around you weren't just always there; people made them happen. But only recently have I started to internalize how much tenacity *everything* requires. That hotel, that park, that railway. The world is a museum of passion projects.",
+                "user": {
+                    "name": "John Collison",
+                    "username": "@collision",
+                    "profile_id": "2464132281",
+                    "avatar": "https://pbs.twimg.com/profile_images/2464132281/jbbxl9p7ratdyuposrif_mini.jpeg"
+                },
+                "date": "May 25, 2022 \u00b7 1:20 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 1279,
+                "retweets": 797,
+                "quotes": 112,
+                "likes": 10757
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1528922782007930880#m",
+            "text": "Thanks for the history shout out here. Many twists and turns and failures and successes in those 23 years\u2026",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 24, 2022 \u00b7 2:16 AM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/chrisfralic/status/1528787091727032322#m",
+                "text": "Narrator: 23 years later eBay has the same $25B market cap while Amazon\u2019s $22B market cap has risen almost 50X.",
+                "user": {
+                    "name": "Chris Fralic",
+                    "username": "@chrisfralic",
+                    "profile_id": "497204896798502913",
+                    "avatar": "https://pbs.twimg.com/profile_images/497204896798502913/COHUXFzo_mini.jpeg"
+                },
+                "date": "May 23, 2022 \u00b7 5:17 PM UTC",
+                "pictures": [
+                    "https://pbs.twimg.com/media/FTdXwQRWAAAUu4s.jpg",
+                    "https://pbs.twimg.com/media/FTdXwQSWQAEEiI7.jpg",
+                    "https://pbs.twimg.com/media/FTdXwQRWIAAcqaq.jpg",
+                    "https://pbs.twimg.com/media/FTdXwQQXEAMyUme.jpg"
+                ],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 1308,
+                "retweets": 684,
+                "quotes": 80,
+                "likes": 6569
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1528920054506541056#m",
+            "text": "https://time.com/collection/100-most-influential-people-2022/6177765/andy-jassy/",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 24, 2022 \u00b7 2:05 AM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 828,
+                "retweets": 241,
+                "quotes": 48,
+                "likes": 2845
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1527003895393812480#m",
+            "text": "I have this old 2006 BusinessWeek framed as a reminder. The \u201crisky bet\u201d that Wall Street disliked was AWS, which generated revenue of more than $62 billion last year.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 18, 2022 \u00b7 7:11 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 4249,
+                "retweets": 12107,
+                "quotes": 1640,
+                "likes": 113615
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/FTEB60aX0AMzXxg.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/crampell/status/1526573262423171073#m",
+            "text": "Some left-leaning economists & political operatives have been privately critical of Dems\u2019 approach to inflation, much quieter publicly. They want to be good allies. But they do their friends no favors by withholding good advice and, sometimes, tough love. https://www.washingtonpost.com/opinions/2022/05/16/democrats-need-more-tough-love-economy-inflation-greedflation-biden/",
+            "user": {
+                "name": "Catherine Rampell",
+                "username": "@crampell",
+                "profile_id": "913952356689235968",
+                "avatar": "https://pbs.twimg.com/profile_images/913952356689235968/CLekjyHD_bigger.jpg"
+            },
+            "date": "May 17, 2022 \u00b7 2:40 PM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 463,
+                "retweets": 257,
+                "quotes": 52,
+                "likes": 1774
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1526574968158314496#m",
+            "text": "If you\u2019re looking for some scary bedtime reading\u2026",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 17, 2022 \u00b7 2:46 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1759,
+                "retweets": 1542,
+                "quotes": 303,
+                "likes": 21061
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/FS97w9rVEAEgMMY.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1526239684392669184#m",
+            "text": "their best to add another $3.5 TRILLION to federal spending. They failed, but if they had succeeded, inflation would be even higher than it is today, and inflation today is at a 40 year high.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 16, 2022 \u00b7 4:34 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 2638,
+                "retweets": 2958,
+                "quotes": 426,
+                "likes": 31086
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1526239512958865409#m",
+            "text": "Look, a squirrel! This is the White House\u2019s statement about my recent tweets. They understandably want to muddy the topic. They know inflation hurts the neediest the most. But unions aren\u2019t causing inflation and neither are wealthy people.  Remember the Administration tried\u2026",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 16, 2022 \u00b7 4:33 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 8732,
+                "retweets": 7302,
+                "quotes": 2485,
+                "likes": 59045
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/FS5Kv3RVsAAav5-.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1526206480612876288#m",
+            "text": "25 years ago yesterday, AMZN went public. As the Grateful Dead would say, \u201cWhat a long, strange trip it\u2019s been.\u201d  It\u2019s been far from smooth. Lots of risk-taking, lots of invention, lots of mistakes, so much we still have to do better. I wouldn\u2019t trade the ride for anything.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 16, 2022 \u00b7 2:22 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 2428,
+                "retweets": 1951,
+                "quotes": 595,
+                "likes": 31243
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1525846743278944256#m",
+            "text": "In fact, the administration tried hard to inject even more stimulus into an already over-heated, inflationary economy and only Manchin saved them from themselves. Inflation is a regressive tax that most hurts the least affluent. Misdirection doesn\u2019t help the country.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 15, 2022 \u00b7 2:33 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/CNLiberalism/status/1525672295775223808#m",
+                "text": "This is so silly. The deficit is decreasing because we\u2019re not doing pandemic aid anymore, and federal receipts are up because of inflation. Congress, or the Biden administration, didn\u2019t do anything to lower the deficit.",
+                "user": {
+                    "name": "New Liberals \ud83c\udf10\ud83c\uddfa\ud83c\udde6",
+                    "username": "@CNLiberalism",
+                    "profile_id": "1681349579252416516",
+                    "avatar": "https://pbs.twimg.com/profile_images/1681349579252416516/DgUK2s7o_mini.jpg"
+                },
+                "date": "May 15, 2022 \u00b7 2:59 AM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 5785,
+                "retweets": 7247,
+                "quotes": 3058,
+                "likes": 55124
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1525309091970699265#m",
+            "text": "The newly created Disinformation Board should review this tweet, or maybe they need to form a new Non Sequitur Board instead. Raising corp taxes is fine to discuss. Taming inflation is critical to discuss. Mushing them together is just misdirection.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 14, 2022 \u00b7 2:56 AM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/JoeBiden/status/1525234935346483210#m",
+                "text": "You want to bring down inflation?  Let\u2019s make sure the wealthiest corporations pay their fair share.",
+                "user": {
+                    "name": "Joe Biden",
+                    "username": "@JoeBiden",
+                    "profile_id": "1308769664240160770",
+                    "avatar": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_mini.jpg"
+                },
+                "date": "May 13, 2022 \u00b7 10:02 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 14876,
+                "retweets": 18988,
+                "quotes": 5817,
+                "likes": 155392
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1525194638310662146#m",
+            "text": "Slide decks are maybe useful for persuasion \u2014 think sales calls. But you don\u2019t want that for internal decision meetings.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 13, 2022 \u00b7 7:21 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 489,
+                "retweets": 232,
+                "quotes": 51,
+                "likes": 3551
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1525189741607624706#m",
+            "text": "Help me out. How do I edit a typo on twitter? Oh right\u2026",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 13, 2022 \u00b7 7:02 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1066,
+                "retweets": 330,
+                "quotes": 285,
+                "likes": 6552
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1525188353704050690#m",
+            "text": "Slide decks hide can shallow thinking. Narratively structured memos are harder to write because they require better thinking. It\u2019s worth it.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 13, 2022 \u00b7 6:56 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/mattyglesias/status/1525107714904543234#m",
+                "text": "I see a lot of organizations relying too much on slide decks relative to actual written memos for their internal communications.   Presentations are great but prose has a unique value in clarifying thought and creating an unambiguous record.",
+                "user": {
+                    "name": "Matthew Yglesias",
+                    "username": "@mattyglesias",
+                    "profile_id": "1709604348228243456",
+                    "avatar": "https://pbs.twimg.com/profile_images/1709604348228243456/p9R8JTx6_mini.jpg"
+                },
+                "date": "May 13, 2022 \u00b7 1:36 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 802,
+                "retweets": 1119,
+                "quotes": 419,
+                "likes": 12456
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1525160919109599232#m",
+            "text": "Big potential.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 13, 2022 \u00b7 5:07 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/NYCMayor/status/1524906015803822112#m",
+                "text": "Dyslexia holds back too many of our children in school but most importantly in life.  We are going to have the largest, most comprehensive approach to supporting students with dyslexia in the country. I'm proud of this moment. https://www.nytimes.com/2022/05/12/nyregion/adams-dyslexia-nyc-schools.html",
+                "user": {
+                    "name": "Mayor Eric Adams",
+                    "username": "@NYCMayor",
+                    "profile_id": "1619354647705042946",
+                    "avatar": "https://pbs.twimg.com/profile_images/1619354647705042946/eKfUt2ma_mini.jpg"
+                },
+                "date": "May 13, 2022 \u00b7 12:15 AM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 589,
+                "retweets": 168,
+                "quotes": 31,
+                "likes": 2081
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1525154211138154497#m",
+            "text": "My dad is an intense, hard worker, and he\u2019s also warm and teaches an easy smile and self-deprecating humor. My brother, sister and I could not have a better role model. We love him and are so proud of him for this well-deserved recognition from @StatueEllisFdn",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 13, 2022 \u00b7 4:41 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/StatueEllisFdn/status/1524781454688800768#m",
+                "text": "\u201cIn every immigrant, you\u2019ll find a deep optimism and deep resilience.\" In celebration of Miguel Bezos, @JeffBezos shared a moving tribute to his father\u2019s legacy at the Statue of Liberty-Ellis Island Awards!  @BezosFoundation #libertyellisawards",
+                "user": {
+                    "name": "Statue of Liberty-Ellis Island Foundation",
+                    "username": "@StatueEllisFdn",
+                    "profile_id": "872901521477861378",
+                    "avatar": "https://pbs.twimg.com/profile_images/872901521477861378/lONwin7a_mini.jpg"
+                },
+                "date": "May 12, 2022 \u00b7 4:00 PM UTC",
+                "pictures": [],
+                "videos": [
+                    "https://video.twimg.com/ext_tw_video/1524749699084738563/pu/vid/1280x720/KmCR4uvtbPloJHI-.mp4?tag=12"
+                ],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 485,
+                "retweets": 300,
+                "quotes": 49,
+                "likes": 3539
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/CBSMornings/status/1525106624737812489#m",
+            "text": "A hedge fund CEO won a \"buy one, get one\" auction for a seat on a Blue Origin space flight for $8 million \u2014 but he's giving away both seats to educators.",
+            "user": {
+                "name": "CBS Mornings",
+                "username": "@CBSMornings",
+                "profile_id": "1434910048027910149",
+                "avatar": "https://pbs.twimg.com/profile_images/1434910048027910149/s0yUok2u_bigger.jpg"
+            },
+            "date": "May 13, 2022 \u00b7 1:32 PM UTC",
+            "is-retweet": true,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 190,
+                "retweets": 118,
+                "quotes": 23,
+                "likes": 838
+            },
+            "pictures": [],
+            "videos": [
+                "https://video.twimg.com/amplify_video/1525106569075105800/vid/960x540/Fg7wRMy2QP-KYagj.mp4?tag=14"
+            ],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1524897867336503315#m",
+            "text": "Agree 100%. Would add: Civility is hard. Name calling and ad hominem attacks are easy and when you use them it makes it harder to work together.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 12, 2022 \u00b7 11:42 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/waitbutwhy/status/1524716833634328576#m",
+                "text": "Some mantras for political thinking:  Truth is hard.  Humility is hard.  Independent thinking is hard.  Resisting tribalism is hard.  Over and over, you will forget that these things are hard, and that's probably when you'll fail at them.  1/5",
+                "user": {
+                    "name": "Tim Urban",
+                    "username": "@waitbutwhy",
+                    "profile_id": "378800000096549990",
+                    "avatar": "https://pbs.twimg.com/profile_images/378800000096549990/2b5b8a614e16b1527ebb75e1a7266d85_mini.jpeg"
+                },
+                "date": "May 12, 2022 \u00b7 11:43 AM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 831,
+                "retweets": 391,
+                "quotes": 131,
+                "likes": 4706
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1523800804087402496#m",
+            "text": "Congrats, Katya!",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 9, 2022 \u00b7 11:03 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/SpaceHumanity/status/1523680666235330560#m",
+                "text": "\"YOU'RE GOING TO SPACE!\" We're thrilled to introduce our first Astronaut, Katya Echazarreta! We surprised her on a call with the news that she will be going to Space on Blue Origin's NS-21 mission. Journey with Katya and #s4h as she experiences and shares the #overvieweffect.",
+                "user": {
+                    "name": "Space for Humanity",
+                    "username": "@SpaceHumanity",
+                    "profile_id": "1588622226151964672",
+                    "avatar": "https://pbs.twimg.com/profile_images/1588622226151964672/E6LcIt0r_mini.jpg"
+                },
+                "date": "May 9, 2022 \u00b7 3:05 PM UTC",
+                "pictures": [],
+                "videos": [
+                    "https://video.twimg.com/ext_tw_video/1523680474421416096/pu/vid/1280x720/hLJBoGY03zi7y9Ga.mp4?tag=12"
+                ],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 555,
+                "retweets": 248,
+                "quotes": 45,
+                "likes": 2681
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1523782246695456768#m",
+            "text": "The Pulitzers\u2019 gold medal prize for public service isn\u2019t given to an individual but to the entire organization. Huge kudos and congrats to the whole Washington Post team!",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 9, 2022 \u00b7 9:49 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [
+                "@washingtonpost"
+            ],
+            "quoted-post": {
+                "link": "https://twitter.com/washingtonpost/status/1523760826964152320#m",
+                "text": "More than 100 journalists contributed to reporting on the Capitol insurrection that was honored with the Pulitzer Prize\u2019s most prestigious award.  https://www.washingtonpost.com/media/2022/05/09/washington-post-wins-pulitzer-prize-jan-6-coverage/?utm_campaign=wp_main&utm_medium=social&utm_source=twitter",
+                "user": {
+                    "name": "The Washington Post",
+                    "username": "@washingtonpost",
+                    "profile_id": "1060271522319925257",
+                    "avatar": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_mini.jpg"
+                },
+                "date": "May 9, 2022 \u00b7 8:24 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 400,
+                "retweets": 130,
+                "quotes": 41,
+                "likes": 1264
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1523330938742005760#m",
+            "text": "Mom, I have no idea how you did what you did.  You kept us both safe inside your heart. Thank you for sharing your strength and for all the sacrifices you made. I love you.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 8, 2022 \u00b7 3:56 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1352,
+                "retweets": 1168,
+                "quotes": 116,
+                "likes": 31332
+            },
+            "pictures": [
+                "https://pbs.twimg.com/media/FSP1al5VcAANAdt.jpg",
+                "https://pbs.twimg.com/media/FSP1amCUUAAwlR0.jpg"
+            ],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1523130789814099969#m",
+            "text": "Too many of our elected officials are still using these techniques\u2026https://www.wsj.com/articles/how-children-use-conflict-to-win-popularity-11651774475?st=hxy6aqm6k9vvhtv&reflink=article_copyURL_share",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "May 8, 2022 \u00b7 2:40 AM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {},
+            "stats": {
+                "comments": 1039,
+                "retweets": 827,
+                "quotes": 156,
+                "likes": 7165
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1520546244707373057#m",
+            "text": "Bill is without doubt one of the smartest people I know and always worth listening to. Most people dramatically underestimate the remarkableness of this bull run. Such things are unstoppable \u2026 until they aren\u2019t.  Markets teach. The lessons can be painful.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Apr 30, 2022 \u00b7 11:30 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/bgurley/status/1520111743942418434#m",
+                "text": "An entire generation of entrepreneurs & tech investors built their entire perspectives on valuation during the second  half of a 13-year amazing bull market run. The \"unlearning\" process could be painful, surprising, & unsettling to many. I anticipate denial. Some thoughts:",
+                "user": {
+                    "name": "Bill Gurley",
+                    "username": "@bgurley",
+                    "profile_id": "1338587084911767554",
+                    "avatar": "https://pbs.twimg.com/profile_images/1338587084911767554/Le6JNY5F_mini.jpg"
+                },
+                "date": "Apr 29, 2022 \u00b7 6:44 PM UTC",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 1629,
+                "retweets": 1460,
+                "quotes": 460,
+                "likes": 12731
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1519789439224012802#m",
+            "text": "So damn cool. Congrats to MiMi and the whole Mars helicopter team.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Apr 28, 2022 \u00b7 9:23 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "https://twitter.com/NASA/status/1519683470779428867#m",
+                "text": "Tour de Force: New images from our #MarsHelicopter show the parachute & backshell that landed @NASAPersevere.  More than eye-popping pictures, they inform the tech we'll need for safely landing future missions, including astronauts, on the Red Planet. https://go.nasa.gov/3rXxumF",
+                "user": {
+                    "name": "NASA",
+                    "username": "@NASA",
+                    "profile_id": "1321163587679784960",
+                    "avatar": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_mini.jpg"
+                },
+                "date": "Apr 28, 2022 \u00b7 2:22 PM UTC",
+                "pictures": [
+                    "https://pbs.twimg.com/media/FRcAEA9WYAMhhwg.jpg"
+                ],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 653,
+                "retweets": 249,
+                "quotes": 45,
+                "likes": 3356
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        },
+        {
+            "link": "https://twitter.com/JeffBezos/status/1519316720648744961#m",
+            "text": "Now THAT\u2019S a good use of twitter.",
+            "user": {
+                "name": "Jeff Bezos",
+                "username": "@JeffBezos",
+                "profile_id": "1591558315254890500",
+                "avatar": "https://pbs.twimg.com/profile_images/1591558315254890500/ETIHb4Nl_bigger.jpg"
+            },
+            "date": "Apr 27, 2022 \u00b7 2:05 PM UTC",
+            "is-retweet": false,
+            "is-pinned": false,
+            "external-link": "",
+            "replying-to": [],
+            "quoted-post": {
+                "link": "",
+                "text": "",
+                "user": {},
+                "date": "",
+                "pictures": [],
+                "videos": [],
+                "gifs": []
+            },
+            "stats": {
+                "comments": 829,
+                "retweets": 257,
+                "quotes": 92,
+                "likes": 6705
+            },
+            "pictures": [],
+            "videos": [],
+            "gifs": []
+        }
+    ],
+    "threads": []
+}
