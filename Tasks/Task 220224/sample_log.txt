@@ -1,0 +1,5 @@
+[10/02/2024 14:30:45] INFO: Application started
+[10/02/2024 14:31:02] ERROR: Connection failed: timeout
+[10/02/2024 14:32:15] ERROR: Database query error: table not found
+[10/02/2024 14:33:20] WARNING: Disk space low
+[10/02/2024 14:34:55] ERROR: Server crashed unexpectedly

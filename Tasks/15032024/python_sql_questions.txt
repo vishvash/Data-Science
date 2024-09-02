@@ -1,0 +1,127 @@
+
+Python Questions (Pandas and NumPy)
+
+1. Filtering DataFrames:
+Given a pandas DataFrame named `sales` with columns `['Year', 'Month', 'Product', 'Revenue']`, write a Python code snippet using pandas to filter out rows where `Year` is 2020 and `Revenue` is greater than 5000. Display the first 5 rows of the filtered DataFrame.
+
+import pandas as pd
+
+# Assuming you already have a DataFrame named 'sales'
+
+# Filter out rows where Year is 2020 and Revenue is greater than 5000
+filtered_sales = sales[(sales['Year'] == 2020) & (sales['Revenue'] > 5000)]
+
+# Display the first 5 rows of the filtered DataFrame
+print(filtered_sales.head())
+
+2. Grouping and Aggregating:
+Consider a DataFrame `employees` with columns `['Department', 'Name', 'Salary']`. Write a Python code snippet to calculate the average `Salary` for each `Department` using pandas, and then sort the results in descending order of average `Salary`.
+
+import pandas as pd
+
+# Sample input data
+data = {
+    'Department': ['HR', 'IT', 'HR', 'IT', 'Finance', 'Finance'],
+    'Name': ['John', 'Emma', 'Sophia', 'Daniel', 'Olivia', 'James'],
+    'Salary': [5000, 6000, 5500, 6500, 7000, 7500]
+}
+
+# Create DataFrame
+employees = pd.DataFrame(data)
+
+# Find the top salary in each department with corresponding name and department
+top_salary_per_department = employees.loc[employees.groupby('Department')['Salary'].idxmax()]
+
+print("Top Salary in Each Department:")
+print(top_salary_per_department)
+
+
+3. Merging DataFrames:
+Assume you have two DataFrames: `df_orders` with columns `['OrderID', 'ProductID', 'Quantity']` and `df_products` with columns `['ProductID', 'ProductName', 'Price']`. Use pandas to merge these two DataFrames on `ProductID` to include all orders, then add a new column `TotalPrice` that multiplies `Quantity` by `Price`. Show the top 5 rows of the resulting DataFrame.
+
+import pandas as pd
+
+# Sample input data for df_orders
+data_orders = {
+    'OrderID': [1, 2, 3, 4, 5],
+    'ProductID': [101, 102, 103, 101, 104],
+    'Quantity': [2, 1, 3, 2, 1]
+}
+
+# Sample input data for df_products
+data_products = {
+    'ProductID': [101, 102, 103, 104],
+    'ProductName': ['Product A', 'Product B', 'Product C', 'Product D'],
+    'Price': [10, 20, 15, 25]
+}
+
+# Create DataFrames
+df_orders = pd.DataFrame(data_orders)
+df_products = pd.DataFrame(data_products)
+
+# Merge the DataFrames on 'ProductID'
+merged_df = pd.merge(df_orders, df_products, on='ProductID')
+
+# Calculate TotalPrice
+merged_df['TotalPrice'] = merged_df['Quantity'] * merged_df['Price']
+
+# Show the top 5 rows of the resulting DataFrame
+print("Top 5 rows of the resulting DataFrame:")
+print(merged_df.head())
+
+
+
+4. Handling Missing Values:
+Given a numpy array `data = np.array([[1, 2, np.nan], [4, np.nan, np.nan], [7, 8, 9]])`, write a Python code snippet that replaces all `np.nan` values with the mean of the non-NaN values in the same column using NumPy.
+
+import numpy as np
+
+# Given numpy array
+data = np.array([[1, 2, np.nan], [4, np.nan, np.nan], [7, 8, 9]])
+
+# Calculate mean of non-NaN values in each column
+means = np.nanmean(data, axis=0)
+
+# Replace NaN values with mean of the corresponding column
+for i in range(data.shape[1]):
+    nan_indices = np.isnan(data[:, i])
+    data[nan_indices, i] = means[i]
+
+print("Array after replacing NaN values with column means:")
+print(data)
+
+
+
+SQL Questions (Joins)
+
+1. Inner Join:
+Write an SQL query that performs an inner join between two tables, `Employees` (`EmployeeID`, `Name`, `DeptID`) and `Departments` (`DeptID`, `DeptName`). The query should return the `Name` of the employee along with the `DeptName` they belong to.
+
+SELECT Employees.Name, Departments.DeptName
+FROM Employees
+INNER JOIN Departments ON Employees.DeptID = Departments.DeptID;
+
+
+2. Left Join with Condition:
+Consider two tables: `Orders` (`OrderID`, `CustomerID`, `OrderDate`) and `Customers` (`CustomerID`, `CustomerName`, `Country`). Write an SQL query that uses a left join to fetch all orders, including those without a matching customer record, but only for customers from the "USA".
+
+SELECT Orders.OrderID, Orders.CustomerID, Orders.OrderDate, Customers.CustomerName, Customers.Country
+FROM Orders
+LEFT JOIN Customers ON Orders.CustomerID = Customers.CustomerID AND Customers.Country = 'USA';
+
+
+3. Complex Join with Aggregation:
+You have two tables: `Products` (`ProductID`, `ProductName`, `Price`) and `OrderDetails` (`OrderDetailID`, `OrderID`, `ProductID`, `Quantity`). Write an SQL query that joins these tables to calculate the total revenue (`Price` * `Quantity`) for each product, then sorts the products by total revenue in descending order. Include the `ProductName` and calculated total revenue in your results.
+
+SELECT 
+    Products.ProductName,
+    SUM(Products.Price * OrderDetails.Quantity) AS TotalRevenue
+FROM 
+    Products
+JOIN 
+    OrderDetails ON Products.ProductID = OrderDetails.ProductID
+GROUP BY 
+    Products.ProductID, Products.ProductName
+ORDER BY 
+    TotalRevenue DESC;
+
