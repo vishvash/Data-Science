@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        h1 {text-align: center;}
+        p {text-align: center;}
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: auto;
+        }
+        th {
+            background-color: #FF0000; /* Color for column names */
+            color: black;
+        }
+        tr {
+            background-color: #90EE90; 
+            color: black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th:first-child {
+            background-color: blue; /* Blue background color for row headers */
+        }
+    </style>
+</head>
+<body style="background-color:white;">
+
+<div class="login">
+    <table>
+        {{ Y | safe}}
+    </table>
+</div>
+
+</body>
+</html>
