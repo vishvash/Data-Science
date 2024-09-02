@@ -1,0 +1,116 @@
+UNIONS:
+
+> create table May2016 (Day int, Customer varchar, Purchases int, Type varchar);
+Import the data
+> create table June2016 (Day int, Customer varchar, Purchases int, Type varchar);
+Import the data
+> create table July2016 (Day int, Customer varchar, Purchases int, Type varchar);
+Import the data
+
+> select * from May2016 UNION select * from June2016 UNION select * from July2016;
+_________________________________________________________________________________________
+
+TRIGGERS:
+
+Create a Table with Sales data
+
+> create table sales_data(
+cust_name varchar(20) not null,
+product_name varchar(10) not null,
+sales real not null,
+quantity int not null,
+total_price real);
+
+> insert into sales_data values('Ravi', 'Chair', 500.0, 5, null), ('Ram', 'Bookcase', 3000.0, 2, null);
+
+> select * from sales_data;
+
+
+CREATE THE FUNCTION:
+
+> create function calc_tot_price()
+returns trigger
+as $$
+declare
+	total numeric;
+begin
+	total = new.sales * new.quantity;
+	new.total_price = total;
+	return new;
+end;
+$$ language plpgsql;
+
+CREATE THE TRIGGER
+> create trigger calc_tot_insert
+before insert
+on sales_data
+for each row
+execute procedure calc_tot_price();
+
+Let's insert the data again: 
+> insert into sales_data values('Ravi', 'Chair', 500.0, 5, null), ('Ram', 'Bookcase', 3000.0, 2, null);
+
+You will notice that the total_price is calculated:
+> select * from sales_data;
+___________________________________________________________________________________
+Automatically updating the latest timestamp whenever a record is updated
+
+> Create table employee(
+id serial primary key,
+name varchar not null,
+dept varchar not null,
+date_of_joining date not null default current_date,
+status varchar default 'Active',
+salary real not null,
+last_updated timestamp default CURRENT_TIMESTAMP
+);
+
+> insert into employee (name, dept, salary) values ('Ravi Kiran', 'HR', 40000.00), 
+('Priya Darshini', 'IT', 25000.00), ('Mohan Bhargav', 'Finance', 30000.00);
+
+> select * from employee;
+
+> CREATE  FUNCTION update_on_status_change()
+RETURNS TRIGGER 
+AS $$
+BEGIN
+    NEW.last_updated = now();
+    RETURN NEW;
+END;
+$$ language plpgsql;
+
+CREATE TRIGGER status_updated_on
+    BEFORE UPDATE
+    ON
+	employee
+    FOR EACH ROW
+EXECUTE PROCEDURE update_on_status_change();
+
+> update employee set status = 'InActive' where name = 'Priya Darshini';
+_____________________________________________________________________________________________________
+
+> create table user_task
+(
+    created_on timestamp default CURRENT_TIMESTAMP not null,
+    updated_on timestamp default CURRENT_TIMESTAMP not null,
+    status varchar not null
+)
+
+> insert into user_task (status) values('trying'), ('successful'), ('failed')
+
+> CREATE  FUNCTION update_updated_on_user_task()
+RETURNS TRIGGER AS $$
+BEGIN
+    NEW.updated_on = now();
+    RETURN NEW;
+END;
+$$ language 'plpgsql';
+
+CREATE TRIGGER update_user_task_updated_on
+    BEFORE UPDATE
+    ON
+        user_task
+    FOR EACH ROW
+EXECUTE PROCEDURE update_updated_on_user_task();
+__________________________________________________________________________________________
+
